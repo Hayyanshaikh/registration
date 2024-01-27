@@ -13,9 +13,9 @@ This repository is a MERN (MongoDB, Express.js, React.js, Node.js) stack applica
 
 1. First, ensure that your local machine has the MongoDB server running.
 2. Navigate to the `server` folder in the terminal and run `npm install`.
-3. Start the server with `npm start`.
+3. Start the server with `nodemon server.js`.
 4. Go to the `client` folder in the terminal and run `npm install`.
-5. Start the client with `npm start`.
+5. Start the client with `npm run dev`.
 6. Now, you can access the registration form at [http://localhost:5173](http://localhost:5173).
 
 ## Database Configuration
